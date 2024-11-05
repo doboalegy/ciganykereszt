@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CitromKereszt\obj\Debug\net8.0\CitromKereszt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CitromKereszt\obj\Debug\net8.0\CitromKereszt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CitromKereszt\obj\Debug\net8.0\CitromKereszt.AssemblyInfo.cs
+C:\Users\User\Desktop\CitromKereszt\obj\Debug\net8.0\CitromKereszt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CitromKereszt\bin\Debug\net8.0\CitromKereszt.exe
+C:\Users\User\Desktop\CitromKereszt\bin\Debug\net8.0\CitromKereszt.deps.json
+C:\Users\User\Desktop\CitromKereszt\bin\Debug\net8.0\CitromKereszt.runtimeconfig.json
+C:\Users\User\Desktop\CitromKereszt\bin\Debug\net8.0\CitromKereszt.dll
+C:\Users\User\Desktop\CitromKereszt\bin\Debug\net8.0\CitromKereszt.pdb
+C:\Users\User\Desktop\CitromKereszt\obj\Debug\net8.0\CitromKereszt.dll
+C:\Users\User\Desktop\CitromKereszt\obj\Debug\net8.0\refint\CitromKereszt.dll
+C:\Users\User\Desktop\CitromKereszt\obj\Debug\net8.0\CitromKereszt.pdb
+C:\Users\User\Desktop\CitromKereszt\obj\Debug\net8.0\CitromKereszt.genruntimeconfig.cache
+C:\Users\User\Desktop\CitromKereszt\obj\Debug\net8.0\ref\CitromKereszt.dll
